@@ -2,7 +2,7 @@
 
 ## Compte-rendu
 
-*//TODO*
+[Lien du Google docs](https://docs.google.com/document/d/1-56sf8CHdOEmA0tm3k3RE8dn7JR7T9a5sPJmBzqa2iM)
 
 ## Diaporama
 
