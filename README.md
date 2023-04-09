@@ -12,7 +12,10 @@ Bibliothèques nécéssaires :
 
 [Lien du Google docs](https://docs.google.com/document/d/1-56sf8CHdOEmA0tm3k3RE8dn7JR7T9a5sPJmBzqa2iM)
 
+[Lien du pdf](https://github.com/HubertBDLB/SAE202/blob/main/S202-Compte_rendu-Troadec-Perrot.pdf)
+
 ## Diaporama
 
 [Lien du Google slides](https://docs.google.com/presentation/d/1itUPLQoB3_ssxwRwzQ0VaG_KYc7VtZyOfC2_XkHNJNg)
 
+[Lien du pdf](https://github.com/HubertBDLB/SAE202/blob/main/S202-Diaporama-Troadec-Perrot.pdf)
