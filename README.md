@@ -1,6 +1,8 @@
 # SAÉ 202 Problème des 8 reines
 
-Télécharger [main.py](https://github.com/HubertBDLB/SAE202/blob/main/main.py)
+1. Télécharger [SAE202.zip](https://github.com/HubertBDLB/SAE202/archive/refs/heads/main.zip)
+2. Extraire l'archive
+3. Exécuter `main.py` avec `python3 main.py`
 
 Bibliothèques nécéssaires :
 * tkinter
